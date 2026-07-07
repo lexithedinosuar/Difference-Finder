@@ -33,8 +33,8 @@ fullFileName = FileName + ".docx"
 diffDoc = new_document(TitleText, FileName )
 
 # variable definition
-f1 = paragraph("Sub2.txt")
-f2 = paragraph("Sub3.txt")
+f1 = paragraph("TextVersion1.txt")
+f2 = paragraph("TextVersion2.txt")
 longest_p_list = 0
 shortest_p_list = 0
 longest_p_len = 0
